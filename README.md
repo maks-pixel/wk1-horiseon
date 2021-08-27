@@ -5,5 +5,6 @@ Changing the code to the Horiseon site to meet accessibility standards so that t
 
 ## Github link
 The repository link to the project
+
 https://github.com/maks-pixel/wk1-horiseon
 
