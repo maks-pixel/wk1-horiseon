@@ -8,9 +8,9 @@ The repository link to the project
 
 https://github.com/maks-pixel/wk1-horiseon
 
-to open [index.html] file to view the code
+to open [index.html](index.html) file to view the code
 
 to open the screenshot here is the link 
 
-[images/horiseon-screenshot.png]
+[horiseon-screenshot.png](assets/images/horiseon-screenshot.png)
 
